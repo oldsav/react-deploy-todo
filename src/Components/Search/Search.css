@@ -1,0 +1,9 @@
+.search-todo input{
+    text-align: center;
+    height: 1rem;
+    padding:1rem;
+    width: 10rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    background-color: transparent;
+}

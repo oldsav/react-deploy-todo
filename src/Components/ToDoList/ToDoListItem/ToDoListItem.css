@@ -1,0 +1,21 @@
+.todo-list-item{
+    display: flex;
+    justify-content: flex-end;
+    
+}
+.todo-list-item button{
+    height: 2,5rem;
+    width: 2.5rem;
+    margin-right: 1rem;
+}
+.todo-list-item-label{
+    margin-right: 10rem;
+    flex-grow: 1;
+}
+.done {
+    text-decoration:line-through;
+}
+.important{
+    color:red;
+    font-weight: bold;
+}

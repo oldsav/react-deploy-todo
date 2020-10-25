@@ -1,0 +1,10 @@
+.item-form{
+    display: inline-flex;
+    padding-left: 1rem;
+    width: 50%;
+    justify-content: space-between;
+}
+.item-input{
+    width: 20rem;
+    margin: 0;
+}
